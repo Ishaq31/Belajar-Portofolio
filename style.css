@@ -46,7 +46,7 @@
 }
 
 .hero-text button{
-    background-color: brown;
+    background-color:rgb(5, 5, 68);
     border: none;
     padding: 15px;
     font-size: 20px;
@@ -91,6 +91,11 @@
 .post-content-detail p {
     font-size: 18px;
     margin-top: 15px;
+}
+
+/* start feature */
+.feature-content {
+
 }
 
 /* start footer */
