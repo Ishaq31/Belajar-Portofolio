@@ -94,10 +94,38 @@
 }
 
 /* start feature */
-.feature-content {
-
+.feature {
+    background-color: white;
+    padding: 15px 110px;
+    margin-top: 50px;
 }
 
+.feature-content {
+    display: flex;
+    gap: 20px;
+}
+
+.feature-content-detail {
+    background-color: white;
+    padding: 20px 15px;
+}
+
+.feature-content-detail img{
+    border-radius:30px;
+}
+
+.feature-content-detail p {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.feature-content-detail label {
+    background-color: rgb(5, 5, 68);
+    color: white;
+    font-weight: 700;
+    padding: 8px;
+    border-radius: 10px;
+}
 /* start footer */
 
 .footer {
